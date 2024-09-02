@@ -19,6 +19,7 @@ public class Control {
         int mult=s.nextInt();
         multiplicarSinmultiplicar(num,mult);
     }
+    
     public void multiplicarSinmultiplicar(int num,int mult){
         int sol=0;
         for(int i=0;i<mult;i++){

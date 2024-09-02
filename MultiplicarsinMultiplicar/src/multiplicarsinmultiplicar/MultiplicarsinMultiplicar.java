@@ -15,6 +15,7 @@ public class MultiplicarsinMultiplicar {
      */
     public static void main(String[] args) {
         new Control();
+        
     }
     
 }
