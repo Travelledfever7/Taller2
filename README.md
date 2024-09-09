@@ -7,9 +7,11 @@
 
 ### Descripción del taller 
 Para este taller número 2 de la materia de modelos de programación 2 se realizaron 3 codigos en los cuales se maneja la recursividad. Los tres codigos del taller son:
--Dividir sin dividir 
--Fibonnaci 
--Multiplicar sin multiplicar 
+- Dividir sin dividir 
+- Fibonnaci 
+- Multiplicar sin multiplicar
+
+
 
 
 
