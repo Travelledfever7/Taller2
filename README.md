@@ -11,6 +11,9 @@ Para este taller número 2 de la materia de modelos de programación 2 se realiz
 - Fibonnaci 
 - Multiplicar sin multiplicar
 
+### Lenguaje de programación 
+Para los tres códigos asignados en el taller se manejaron con el lenguaje de programación python 
+
 
 
 
