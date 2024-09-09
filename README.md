@@ -1,4 +1,4 @@
-#Taller 2 - Ejercicios de recursividad 
+# Taller 2 - Ejercicios de recursividad 
 
 ### Integrantes del taller:
 -Laura Ximena Flechas Ochoa - 20221020023
